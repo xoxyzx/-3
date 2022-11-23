@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A52C54B4292D277A005297C2 /* food.swift in Sources */ = {isa = PBXBuildFile; fileRef = A52C54B3292D277A005297C2 /* food.swift */; };
+		A52C54B6292D2A2E005297C2 /* hi.swift in Sources */ = {isa = PBXBuildFile; fileRef = A52C54B5292D2A2E005297C2 /* hi.swift */; };
 		A59BF899292BAE8D00AF5E79 /* __App.swift in Sources */ = {isa = PBXBuildFile; fileRef = A59BF898292BAE8D00AF5E79 /* __App.swift */; };
 		A59BF89B292BAE8D00AF5E79 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A59BF89A292BAE8D00AF5E79 /* ContentView.swift */; };
 		A59BF89D292BAE8E00AF5E79 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A59BF89C292BAE8E00AF5E79 /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A52C54B3292D277A005297C2 /* food.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = food.swift; sourceTree = "<group>"; };
+		A52C54B5292D2A2E005297C2 /* hi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hi.swift; sourceTree = "<group>"; };
 		A59BF895292BAE8D00AF5E79 /* 作業.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "作業.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A59BF898292BAE8D00AF5E79 /* __App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = __App.swift; sourceTree = "<group>"; };
 		A59BF89A292BAE8D00AF5E79 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +57,8 @@
 			children = (
 				A59BF898292BAE8D00AF5E79 /* __App.swift */,
 				A59BF89A292BAE8D00AF5E79 /* ContentView.swift */,
+				A52C54B3292D277A005297C2 /* food.swift */,
+				A52C54B5292D2A2E005297C2 /* hi.swift */,
 				A59BF89C292BAE8E00AF5E79 /* Assets.xcassets */,
 				A59BF89E292BAE8E00AF5E79 /* Preview Content */,
 			);
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A52C54B4292D277A005297C2 /* food.swift in Sources */,
+				A52C54B6292D2A2E005297C2 /* hi.swift in Sources */,
 				A59BF89B292BAE8D00AF5E79 /* ContentView.swift in Sources */,
 				A59BF899292BAE8D00AF5E79 /* __App.swift in Sources */,
 			);
